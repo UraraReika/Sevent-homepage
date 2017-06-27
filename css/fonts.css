@@ -1,0 +1,79 @@
+@font-face{
+	font-family: "GothamBook";
+	src: url("../fonts/GothamBook/GothamBook.eot");
+	src: url("../fonts/GothamBook/GothamBook.eot?iefix")format("eot"),
+		url("../fonts/GothamBook/GothamBook.woff")format("woff"),
+		url("../fonts/GothamBook/GothamBook.ttf")format("truetype"); 
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "GothamProItalic";
+	src: url("../fonts/GothamProItalic/GothamProItalic.eot");
+	src: url("../fonts/GothamProItalic/GothamProItalic.eot?iefix")format("eot"),
+		url("../fonts/GothamProItalic/GothamProItalic.woff")format("woff"),
+		url("../fonts/GothamProItalic/GothamProItalic.ttf")format("truetype"); 
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "GothamProBold";
+	src: url("../fonts/GothamProBold/GothamProBold.eot");
+	src: url("../fonts/GothamProBold/GothamProBold.eot?iefix")format("eot"),
+		url("../fonts/GothamProBold/GothamProBold.woff")format("woff"),
+		url("../fonts/GothamProBold/GothamProBold.ttf")format("truetype"); 
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face{
+	font-family: "GothamProMedium";
+	src: url("../fonts/GothamProMedium/GothamProMedium.eot");
+	src: url("../fonts/GothamProMedium/GothamProMedium.eot?iefix")format("eot"),
+		url("../fonts/GothamProMedium/GothamProMedium.woff")format("woff"),
+		url("../fonts/GothamProMedium/GothamProMedium.ttf")format("truetype"); 
+	font-style: normal;
+	font-weight: 500;
+}
+
+@font-face{
+	font-family: "GothamProMediumItalic";
+	src: url("../fonts/GothamProMediumItalic/GothamProMediumItalic.eot");
+	src: url("../fonts/GothamProMediumItalic/GothamProMediumItalic.eot?iefix")format("eot"),
+		url("../fonts/GothamProMediumItalic/GothamProMediumItalic.woff")format("woff"),
+		url("../fonts/GothamProMediumItalic/GothamProMediumItalic.ttf")format("truetype"); 
+	font-style: italic;
+	font-weight: 500;
+}
+
+@font-face{
+	font-family: "HelveticaBold";
+	src: url("../fonts/HelveticaBold/HelveticaBold.eot");
+	src: url("../fonts/HelveticaBold/HelveticaBold.eot?iefix")format("eot"),
+		url("../fonts/HelveticaBold/HelveticaBold.woff")format("woff"),
+		url("../fonts/HelveticaBold/HelveticaBold.ttf")format("truetype"); 
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face{
+	font-family: "HelveticaRegular";
+	src: url("../fonts/HelveticaRegular/HelveticaRegular.eot");
+	src: url("../fonts/HelveticaRegular/HelveticaRegular.eot?iefix")format("eot"),
+		url("../fonts/HelveticaRegular/HelveticaRegular.woff")format("woff"),
+		url("../fonts/HelveticaRegular/HelveticaRegular.ttf")format("truetype"); 
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "HelveticaNeue-Bold";
+	src: url("../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.eot");
+	src: url("../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.eot?iefix")format("eot"),
+		url("../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.woff")format("woff"),
+		url("../fonts/HelveticaNeue-Bold/HelveticaNeue-Bold.ttf")format("truetype"); 
+	font-style: normal;
+	font-weight: bold;
+}
